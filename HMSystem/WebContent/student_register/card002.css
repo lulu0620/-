@@ -1,0 +1,7 @@
+@charset "UTF-8"; 
+body{font-size:15px;color:black;}
+	p{color:black;front-weight:bold;frontsize:20px;}
+		 .info{front-size:12px;front-style:italic;color:grey;}
+	#i{color:grey;width:350px;height:15px;front-size:12px;}
+    table{text_align:left;}
+    #t{text-align:right;}
